@@ -1,2 +1,2 @@
 # starterPack_Github
-Starter pack setup github, git and git lfs for personal computer.
+Starter pack setup github, git and git lfs for desktop.
